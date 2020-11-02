@@ -1,4 +1,4 @@
-# app
+# Vuejs Personal Website
 
 ## Project setup
 ```
