@@ -2,13 +2,13 @@
   <div class="about-card">
     <div class="card-title">
       <img
-        src="https://i.pinimg.com/originals/d3/69/d9/d369d9056795f553e244da66e8297cca.png"
+        src="avatar.png"
         alt="avatar"
         class="avatar"
       />
       <div class="title-text-content">
         <p>Operatör</p>
-        <h2>İlhan Aydos</h2>
+        <h2>İlhan AYDOS</h2>
       </div>
     </div>
     <div class="card-content">
@@ -19,16 +19,32 @@
       <p>
         <img src="whatsapp-logo.svg" width="15" height="15" alt="logo" />
         <a class="phone" href="https://wa.link/9nltwj" target="_blank"
-          >+90532 320 48 00</a
-        >
-        <br />
-        <br />
-        <img src="whatsapp-logo.svg" width="15" height="15" alt="logo" />
-        <a class="phone" href="https://wa.link/488h2p" target="_blank"
-          >+90555 035 14 53</a
+          > +90532 320 48 00</a
         >
       </p>
     </div>
+    <div class="card-title">
+      <img
+        src="avatar.png"
+        alt="avatar"
+        class="avatar"
+      />
+      <div class="title-text-content">
+        <p>Operatör</p>
+        <h2>Mustafa DİNÇER</h2>
+      </div>
+    </div>
+    <div class="card-content">
+        <p>
+          Peçenek Mah., Pursaklar / ANKARA
+        </p>
+        <p>
+          <img src="whatsapp-logo.svg" width="15" height="15" alt="logo" />
+          <a class="phone" href="https://wa.link/488h2p" target="_blank"
+            > +90555 035 14 53</a
+          >
+        </p>
+      </div>
   </div>
 </template>
 

@@ -24,23 +24,23 @@
         </tr>
         <tr>
           <td>Kazı</td>
-          <td>PhotoShop, Figma, Canva, Adobe XD</td>
+          <td>Bünyemizdeki ekskavatör ve diğer iş makinlerini kullarak temiz bir iş çıkartmaktayız.</td>
         </tr>
         <tr>
           <td>Kırım - Yıkım</td>
-          <td>React.js, Vue.js, Nuxt.js, HTML, CSS, JavaScript</td>
+          <td>Kırıcılarımızı büyük bir titizlik ile kullanıp aynı şekilde yıkım gerçekleştirmekteyiz.</td>
         </tr>
         <tr>
           <td>Tadilat</td>
-          <td>Node.js, Express.js, Mongo, GraphQL</td>
+          <td>Şantiye, hafriyat vs. kurulumu ve kurulum sonrasında gerekli tadilatları yapmaktayız.</td>
         </tr>
         <tr>
           <td>Çevre Düzenleme</td>
-          <td>ML5, TensorFlow, Algorithm Design</td>
+          <td>Bahçe, site içi düzenleme ve arazi düzenlemelerinde bulunmaktayız.</td>
         </tr>
         <tr>
           <td>Peyzaj ve Sulama</td>
-          <td>Stripe, PayFast, E-commerce, CMS</td>
+          <td>Belediyelere refüjler arası veya yol kenarları peyzaj işleri ve otomatik sulama sistemleri sağlamaktayız.</td>
         </tr>
       </table>
     </div>

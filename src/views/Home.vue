@@ -4,8 +4,8 @@
       :images="images"
       displacement="require('../assets/displacement.png')"
       :intensity="0.2"
-      :speedIn="1.4"
-      :speedOut="1.4"
+      :speedIn="1.0"
+      :speedOut="1.0"
       ease="expo.out"
       ref="slideshow">
     </vue-displacement-slideshow>

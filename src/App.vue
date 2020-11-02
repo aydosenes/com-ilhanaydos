@@ -20,6 +20,8 @@ export default {
 </script>
 
 <style lang="sass" scoped>
+.space
+  background: #C0C0C0
 .view-container
   width: 77vw
   padding: 1.5em

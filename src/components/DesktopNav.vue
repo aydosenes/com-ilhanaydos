@@ -4,6 +4,8 @@
       <img src="excavator-logo.png" width="100" height="100" alt="logo" />
       <br />
       <a><b>İlhan AYDOS</b></a>
+      <br />
+      <a>Kiralık İş Makineleri</a>
     </div>
     <div class="nav-menu">
       <ul class="nav-menu-list">
@@ -14,7 +16,14 @@
     </div>
     <div class="footer">
       <a href="https://github.com/aydosenes" target="_blank"> aydosenes </a>
-      <a>© 2020</a>
+      <a>© 2020</a><br />
+      <img 
+        class="gitlogo" 
+        src="github-logo.png" 
+        width="60" 
+        height="25" 
+        alt="logo"
+        />
     </div>
   </section>
 </template>
@@ -37,18 +46,24 @@ export default {
 </script>
 
 <style lang="sass" scoped>
+.gitlogo
+  display: block
+  margin-left: auto
+  margin-right: auto
+  width: 30%
 .nav
     position: fixed
     display: flex
     flex-direction: column
     align-items: center
-    background: #ECF0F1
+    background: #D0D3D4
     top: 0
     left: 0
     bottom: 0
     width: 20vw
 .nav-logo
     margin: 100px auto
+    text-align: center
 .nav-menu
     color: white
 .nav-menu-list
@@ -64,4 +79,5 @@ export default {
         width: 90%
 .footer
     font-size: small
+    text-align: center
 </style>

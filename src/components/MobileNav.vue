@@ -4,6 +4,8 @@
       <img src="excavator-logo.png" width="100" height="100" alt="logo" />
       <br />
       <a><b>İlhan AYDOS</b></a>
+      <br />
+      <a>Kiralık İş Makineleri</a>
     </div>
     <div class="footer">
       <a href="https://github.com/aydosenes" target="_blank"> aydosenes </a>
@@ -39,11 +41,12 @@ export default {
 
 <style lang="sass" scoped>
 .nav
-    background: #C0C0C0
+    background: #D0D3D4
     display: flex
     flex-direction: column
     justify-content: space-around
     align-items: center
+    text-align: center
 .nav-logo
     margin: 20px auto
 .nav-menu
