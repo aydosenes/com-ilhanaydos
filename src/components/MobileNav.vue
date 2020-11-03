@@ -7,10 +7,6 @@
       <br />
       <a>Kiralık İş Makineleri</a>
     </div>
-    <div class="footer">
-      <a href="https://github.com/aydosenes" target="_blank"> aydosenes </a>
-      <a>© 2020</a>
-    </div>
     <div class="nav-menu">
       <ul class="nav-menu-list">
         <li class="nav-list-item" v-on:click="home">Ana Sayfa</li>

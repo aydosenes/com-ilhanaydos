@@ -44,6 +44,10 @@
         </tr>
       </table>
     </div>
+    <div class="footer">
+      <a href="https://github.com/aydosenes" target="_blank" class="link"> aydosenes </a>
+      <a class="link">© 2020</a>
+    </div>
   </div>
 </template>
 
@@ -52,6 +56,11 @@ export default {};
 </script>
 
 <style lang="sass" scoped>
+.footer
+  font-size: small
+  text-align: center
+.link
+  color: white
 .about-card
   min-height: calc(100vh - 150px)
   background: #333

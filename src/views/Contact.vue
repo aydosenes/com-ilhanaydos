@@ -44,7 +44,11 @@
             > +90555 035 14 53</a
           >
         </p>
-      </div>
+    </div>
+    <div class="footer">
+      <a href="https://github.com/aydosenes" target="_blank" class="link"> aydosenes </a>
+      <a class="link">© 2020</a>
+    </div>
   </div>
 </template>
 
@@ -53,6 +57,11 @@ export default {};
 </script>
 
 <style lang="sass" scoped>
+.footer
+  font-size: small
+  text-align: center
+.link
+  color: white
 .phone
     color: white
 .about-card

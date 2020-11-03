@@ -15,15 +15,8 @@
       </ul>
     </div>
     <div class="footer">
-      <a href="https://github.com/aydosenes" target="_blank"> aydosenes </a>
+      <a href="https://github.com/aydosenes" target="_blank" class="link"> aydosenes </a>
       <a>© 2020</a><br />
-      <img 
-        class="gitlogo" 
-        src="github-logo.png" 
-        width="60" 
-        height="25" 
-        alt="logo"
-        />
     </div>
   </section>
 </template>
@@ -80,4 +73,6 @@ export default {
 .footer
     font-size: small
     text-align: center
+.link
+  color: black
 </style>
